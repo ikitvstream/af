@@ -4,5 +4,6 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0" 
-http://ikitv.ooj.cz/play/live.php?mac=00:1A:79:83:24:16&stream=2090176&extension=m3u8
+# ikiTV ( Full HD )
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+http://103.176.90.27/play/live.php?mac=00:1B:79:47:67:0B&stream=2090176&extension=m3u8
